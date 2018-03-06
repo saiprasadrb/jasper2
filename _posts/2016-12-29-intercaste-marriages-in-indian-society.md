@@ -2,6 +2,7 @@
 layout: post
 title: Intercaste Marriages in Indian Society
 cover:  assets/images/welcome.jpg
+permalink: /2016/12/29/intercaste-marriages-in-indian-society/
 ---
 
 The Hindu has written an editorial on the Intercaste marriages based on a survey conducted by a certain SARI (Social Attitudes Research for India) organisation.
