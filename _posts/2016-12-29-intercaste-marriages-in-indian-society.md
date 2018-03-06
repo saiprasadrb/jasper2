@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Intercaste Marriages in Indian Society
+cover:  assets/images/welcome.jpg
 ---
 
 The Hindu has written an editorial on the Intercaste marriages based on a survey conducted by a certain SARI (Social Attitudes Research for India) organisation.
@@ -17,6 +18,6 @@ Thankfully, despite popular support, no actual Indian law prohibits inter-caste 
 
 The government should be doing much more to promote inter-group marriage and to protect those who seek them from the likes of Moral police like Khap Panchayats.
 
-    Sensitise the officials in the courts and the police about the need of protection to those who marry across castes or religion.  Lack of government support in the face of family disapproval may be one reason why the India Human Development Survey found that only 5% of marriages are inter-caste.
-    Political parties should show the will and have the courage to take up support for inter-caste marriages as an agenda item.
-    Vociferous advertisement of monetary rewards given for inter-caste marriages should be done. Several state governments also give out money for the same, but the number of rewards is too small to make a difference.
+1. Sensitise the officials in the courts and the police about the need of protection to those who marry across castes or religion.  Lack of government support in the face of family disapproval may be one reason why the India Human Development Survey found that only 5% of marriages are inter-caste.
+2. Political parties should show the will and have the courage to take up support for inter-caste marriages as an agenda item.
+3. Vociferous advertisement of monetary rewards given for inter-caste marriages should be done. Several state governments also give out money for the same, but the number of rewards is too small to make a difference.
